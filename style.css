@@ -104,11 +104,6 @@ h5 {
     padding: 5px;
     transition: all 0.3s ease;
 }
-@media (max-width: 970px) {
-    .contact {
-      flex-direction: column;
-    }
-  }
   
 @keyframes dropdown {
     0% { 
